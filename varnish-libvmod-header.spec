@@ -6,7 +6,7 @@
 Summary:	A header-modification VMOD for Varnish
 Name:		varnish-libvmod-%{vmod}
 Version:	0.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Daemons
 Source0:	https://github.com/varnish/libvmod-header/archive/3.0/%{vmod}-%{version}.tar.gz
